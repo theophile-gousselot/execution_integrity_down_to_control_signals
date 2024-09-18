@@ -1,14 +1,3 @@
-
-
-I shoud do this:
-- insert correct link to the article
-- image of CFG: Dhrystone CFG (Control Flow Graph) first and last instruction nodes are at the right
-- include cfi_riscv_equation in repo! to explains python codes
-- refer to https://docs.openhwgroup.org/projects/cv32e40p-user-manual/en/latest/pipeline.html#single-and-multi-cycle-instructions to explains cycle penalties
-- give the code for the methods to comput riscv valid ratio
-## Getting Started
-
-
 ### Prerequisites
 #### RISC-V Toolchain
 1. Download a RISC-V toolchain. The one used in the paper is available: TODO link with access to the toolchain
