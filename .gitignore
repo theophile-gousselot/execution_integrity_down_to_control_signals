@@ -1,0 +1,12 @@
+OBJ/
+SRC/RTL/iea_cv32e40p_fpga_dev
+explicit_target_names.mk
+SRC/SCRIPTS/__pycache__
+SRC/SCRIPTS/__pycache__/*
+*.swp
+vivado.jou
+vivado.log
+vivado_*.jou
+vivado_*.log
+*.Xil
+vivado_pid*.str

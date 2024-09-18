@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Mar 12 17:29:37 2024
+[*]
+[dumpfile_mtime] "Tue Mar 12 17:27:01 2024"
+[dumpfile_size] 14558594
+[timestart] 23
+[size] 1080 1883
+[pos] -1 -1
+*-2.188954 27 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.core_v_verif_fpga.
+[sst_width] 233
+[signals_width] 389
+[sst_expanded] 1
+[sst_vpaned_height] 590
+@201
+-TOP I/O
+@28
+TOP.clk_ascon_fast_i
+TOP.clk_core_slow_i
+@22
+TOP.led_o[7:0]
+@28
+TOP.rst_i
+@200
+-
+-TOP SIGNALS
+@22
+TOP.core_v_verif_fpga.instr_addr_s[31:0]
+TOP.core_v_verif_fpga.mem_instr_rdata_s[31:0]
+@200
+-
+-CV32E40P
+@22
+TOP.core_v_verif_fpga.cv32e40p_core_i.pc_if[31:0]
+TOP.core_v_verif_fpga.cv32e40p_core_i.pc_id[31:0]
+TOP.core_v_verif_fpga.cv32e40p_core_i.pc_ex[31:0]
+TOP.core_v_verif_fpga.cv32e40p_core_i.instr_rdata_i[31:0]
+TOP.core_v_verif_fpga.cv32e40p_core_i.instr_rdata_id[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
